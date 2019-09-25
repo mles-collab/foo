@@ -31,7 +31,7 @@
 	</repositories>	
 	
 	<build>
-		<finalName>sample-project</finalName>
+		<finalName>foo</finalName>
 	    <plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
